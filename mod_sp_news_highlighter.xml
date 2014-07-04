@@ -80,7 +80,6 @@
       </fieldset>
       <fieldset name="STYLES">
         <field name="height" type="text" default="30" label="MOD_HEIGHT" description="MOD_HEIGHT_DESC"/>
-        <field name="button_width" type="text" default="110" size="10" label="BTN_WIDTH" description="BTN_WIDTH_DESC"/>
         <field name="bgcolor" type="color" default="#F9F9F9" label="BGCOLOR" description="BGCOLOR_DESC"/>
         <field name="linkcolor" type="color" default="#047aac" label="LINK_COLOR" description="LINK_COLOR_DESC"/>
         <field name="linkhover" type="color" default="#039ee1" label="HLINK_COLOR" description="HLINK_COLOR_DESC"/>
